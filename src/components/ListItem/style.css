@@ -1,0 +1,15 @@
+.list-item {
+    width: 300px;
+    text-align: center;
+    border: 2px solid #A64536;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 25px;
+    cursor: pointer;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    user-select: none;
+}
